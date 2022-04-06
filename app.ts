@@ -1,17 +1,7 @@
-enum Roles {
-  ADMIN = "Admin",
-  READ_ONLY = "Read Only",
-  AUTHOR = "Author",
+function add(a: number, b: number): number {
+  return a + b;
 }
 
-const person: {
-  name: string;
-  age: number;
-  hobbies: string[]; // Array of strings
-  roles: [number, string][]; // Tuple
-} = {
-  name: "Some Guy",
-  age: 23,
-  hobbies: ["Sports", "Cooking"],
-  roles: [[1, Roles.ADMIN]],
-};
+function printNumber(a: number): void {
+  console.log("Result: " + a);
+}
