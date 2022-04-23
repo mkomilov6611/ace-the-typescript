@@ -19,3 +19,4 @@ function extractAndConvert(obj, key) {
     return obj[key];
 }
 extractAndConvert({ name: "Max", age: 30 }, "name");
+//# sourceMappingURL=1%20-%20GenericFunctions.js.map

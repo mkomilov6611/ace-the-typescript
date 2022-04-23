@@ -11,3 +11,4 @@ const person = {
     hobbies: ["Sports", "Cooking"],
     roles: [[1, Roles.ADMIN]],
 };
+//# sourceMappingURL=1%20-%20Objects-Enum-Tuple.js.map

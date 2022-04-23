@@ -15,3 +15,4 @@ function moveAnimal(animal) {
     console.log(`${animal.type} is moving at ` + speed);
 }
 moveAnimal({ type: "bird", flyingSpeed: 10 });
+//# sourceMappingURL=2%20-%20DiscriminatedUnion.js.map

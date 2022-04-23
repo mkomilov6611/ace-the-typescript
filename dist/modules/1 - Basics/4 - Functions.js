@@ -15,3 +15,4 @@ function generateError(message) {
     throw new Error(message);
 }
 generateError("An error occured");
+//# sourceMappingURL=4%20-%20Functions.js.map

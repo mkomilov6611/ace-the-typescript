@@ -70,3 +70,4 @@ class SingletonDepartment extends Department {
 }
 const singleton = SingletonDepartment.getInstance(3);
 singleton.describe();
+//# sourceMappingURL=1%20-%20Classes.js.map

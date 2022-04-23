@@ -7,3 +7,4 @@ function combine(a, b, resultConversion) {
     return a.toString() + b.toString();
 }
 combine("1", "2", "as-number");
+//# sourceMappingURL=2%20-%20Union-Aliases.js.map

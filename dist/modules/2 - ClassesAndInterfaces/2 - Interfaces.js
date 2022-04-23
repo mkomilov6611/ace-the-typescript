@@ -11,3 +11,4 @@ class Person {
 let user1;
 user1 = new Person("Max");
 user1.greet("Hi there - I am ");
+//# sourceMappingURL=2%20-%20Interfaces.js.map

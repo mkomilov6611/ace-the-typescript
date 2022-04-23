@@ -7,3 +7,4 @@ function merge(a, b) {
 }
 const result = merge("i", "Mac");
 result.split("");
+//# sourceMappingURL=5%20-%20FunctionOverloads.js.map

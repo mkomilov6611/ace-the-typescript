@@ -7,3 +7,4 @@ function createCourseGoal(title, description, date) {
     return courseGoal;
 }
 const readOnlyNames = ["Max", "Anna"];
+//# sourceMappingURL=3%20-%20UtilityTypes.js.map

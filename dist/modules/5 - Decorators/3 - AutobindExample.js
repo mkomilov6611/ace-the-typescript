@@ -30,3 +30,4 @@ __decorate([
 const printer = new Printer("This works");
 const printMethod = printer.printText;
 printMethod();
+//# sourceMappingURL=3%20-%20AutobindExample.js.map

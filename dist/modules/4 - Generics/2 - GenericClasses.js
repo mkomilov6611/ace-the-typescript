@@ -16,3 +16,4 @@ textStorage.addItem("John");
 textStorage.addItem("Paul");
 textStorage.removeItem("John");
 console.log(textStorage.getItems());
+//# sourceMappingURL=2%20-%20GenericClasses.js.map

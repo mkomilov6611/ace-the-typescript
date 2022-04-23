@@ -61,3 +61,4 @@ const physics = new Course("Physics", 199);
 const invalid = new Course("", -199);
 console.log(Validate(invalid));
 console.log(Validate(physics));
+//# sourceMappingURL=4%20-%20Validation.js.map

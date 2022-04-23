@@ -36,3 +36,4 @@ Human = __decorate([
     Logger("Logging-Human"),
     WithTemplate(`<h1>Some body</h1>`, "app")
 ], Human);
+//# sourceMappingURL=1%20-%20ClassDecorator.js.map

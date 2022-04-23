@@ -42,3 +42,4 @@ function useVehicle(vehicle) {
 }
 useVehicle(v1);
 useVehicle(v2);
+//# sourceMappingURL=1%20-%20IntersectionTypeAndTypeGuards.js.map
